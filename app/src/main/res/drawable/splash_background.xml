@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/holo_blue_bright" />
+    <!--http://dudmy.net/android/2017/04/09/improved-loading-screen/-->
+    <item>
+        <bitmap android:src="@drawable/background_title_kr"/>
+    </item>
+
+</layer-list>

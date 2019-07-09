@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">맑은·날</string>
+
+    <string name="title_currentForecast">기상 정보</string>
+    <string name="title_currentDust">대기 정보</string>
+    <string name="title_airReport">상세 정보</string>
+    <string name="title_localSearch">지역 검색</string>
+
+    <string name="gps_location">지역 검색 중</string>
+    <string name="sky_status">상태 받아오는 중</string>
+    <string name="dust_status">상태 받아오는 중</string>
+</resources>

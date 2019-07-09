@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2DDDE</color>
+    <color name="colorPrimaryDark">#F7CAC9</color>
+    <color name="colorAccent">#F7A19F</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparency">#00FF0000</color>
+
+    <color name="roseQuartzMedium">#F7CAC9</color>
+    <color name="roseQuartzLight">#F2DDDE</color>
+    <color name="serenityMedium">#92A8D1</color>
+    <color name="serenityLight">#89ABE3</color>
+    <color name="grayMedium">#3D3D3D</color>
+    <color name="grayLight">#666666</color>
+    <color name="grayUltraLight">#999999</color>
+</resources>
